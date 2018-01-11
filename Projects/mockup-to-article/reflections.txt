@@ -1,0 +1,22 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+
+Skills Learned:
+- Using tags to format and segment text (p tags) at my will on a vanilla HTML document. I have to admit, that project had a lot of manipulation required but was all necessary with just a couple tags! I was impressed by that and am eager to continue! Another isn't necessarily a skill but more of a resource: Mozilla's Developer Network. That will be quite the tool to bookmark.
+
+Easy thus far:
+- The file tree and path segment was fairly easy. I've been working with some text editors on python & R projects over the last year or so and have been fairly familiar with that concept. Also the use of a text editor! Using atom and knowing where to get some additional packages made modifying the text in the project a snap!
+
+Difficult thus far:
+- For me, so far keeping the structure or "tree" of the HTML document in check. There's a lot of parent/children tags out there and sometimes siblings can confuse, too. Keeping all that in order was a bit chaotic for a moment on this project and I suspect it can only get worse! Not insurmountable, however :).
+
+Problem Strategies used:
+- One strategy I developed working on the first project was to get a package for my editor to wrap text in a particular tag! That was extremely useful and ensures I have accurate closing tags. Another was working out how to keep a mental structure of the html in my head so I knew what 'level' I was in the tree. That way I can keep in mind whether or not the tag's content I am editing is a sibling or child to the tag above, that way I can keep my indents accurate.
