@@ -1,0 +1,63 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Corben', Georgia, Times, serif;
+    font-size: 20px;
+}
+
+p, div {
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
+    font-size: 12.5px;
+}
+
+body {
+    background: url(/img/cream_dust.png) repeat 0 0;
+}
+
+.card {
+    /* background-color: #2866c9; */
+    border: 1px;
+    border-style: solid;
+    padding: 5px 10px 5px 10px;
+    border-color: #dbdbdb;
+    box-shadow: 5px 5px 2px #dbdbdb;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.card:hover {
+    box-shadow: 5px 5px 2px #49ffe6;
+    border-radius: 5px;
+}
+
+.cardInfo {
+    border: 1px;
+    border-style: solid;
+    border-color: #dbdbdb;
+    padding-left: 10px;
+}
+
+.animalDescription {
+    padding: 8px 5px 8px 5px;
+}
+
+.cardImage {
+    /* width: 300px; */
+    margin: auto;
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+
+.fact {
+    font-style: italic;
+    padding: 8px 5px 8px 5px;
+    text-align: left;
+}
+
+.funItems {
+    list-style-type: none;
+    padding-left: 0pt;
+}
+
+.label {
+    font-weight: bold;
+    list-style-type: none;
+}
